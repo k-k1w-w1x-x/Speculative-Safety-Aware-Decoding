@@ -12,6 +12,7 @@ This project is built upon the [SafeDecoding: Defending against Jailbreak Attack
 ------
 
 ## 🚀 Quick Start
+**Update (2025-12-29):** We have released the weights for the **safety-augmented Llama-3.2-1B-Instruct model**. You can download them directly from [Hugging Face](https://huggingface.co/wxk123/llama-3.2-1b-instruct-augmented).
 
 ### Environment Setup
 
@@ -56,7 +57,7 @@ This project is built upon the [SafeDecoding: Defending against Jailbreak Attack
    - **Llama-2-7B**: `meta-llama/Llama-2-7b-chat-hf`
    - **Llama-2-13B**: `meta-llama/Llama-2-13b-chat-hf`
    - **TinyLlama**: `TinyLlama/TinyLlama-1.1B-Chat-v1.0`
-   - **DeepAlign Models**: Need to be trained using the [shallow-vs-deep-alignment](https://github.com/Unispac/shallow-vs-deep-alignment) repository. Specifically, for the safety-augmented model of Llama3.2-1B-Instruct, you can download it directly from https://huggingface.co/wxk123/llama-3.2-1b-instruct-augmented
+   - **DeepAlign Models**: Need to be trained using the [shallow-vs-deep-alignment](https://github.com/Unispac/shallow-vs-deep-alignment) repository. Specifically, for the safety-augmented model of Llama3.2-1B-Instruct, you can download it directly from [here](https://huggingface.co/wxk123/llama-3.2-1b-instruct-augmented)
 
 
 2. **Configure model paths**
