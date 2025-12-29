@@ -56,7 +56,7 @@ This project is built upon the [SafeDecoding: Defending against Jailbreak Attack
    - **Llama-2-7B**: `meta-llama/Llama-2-7b-chat-hf`
    - **Llama-2-13B**: `meta-llama/Llama-2-13b-chat-hf`
    - **TinyLlama**: `TinyLlama/TinyLlama-1.1B-Chat-v1.0`
-   - **DeepAlign Models**: Need to be trained using the [shallow-vs-deep-alignment](https://github.com/Unispac/shallow-vs-deep-alignment) repository
+   - **DeepAlign Models**: Need to be trained using the [shallow-vs-deep-alignment](https://github.com/Unispac/shallow-vs-deep-alignment) repository. Specifically, for the safety-augmented model of Llama3.2-1B-Instruct, you can download it directly from https://huggingface.co/wxk123/llama-3.2-1b-instruct-augmented
 
 
 2. **Configure model paths**
